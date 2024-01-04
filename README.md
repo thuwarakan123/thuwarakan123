@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **thuwarakan123@gmail.com**
 
+Feel free to explore my GitHub repositories to see my work and contributions. I am open to collaborations and would love to connect with fellow developers and enthusiasts.
+
+Thank you for visiting my GitHub profile!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thuwarakan-jeyakumar-4b914b1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thuwarakan-jeyakumar-4b914b1a3/" height="30" width="40" /></a>

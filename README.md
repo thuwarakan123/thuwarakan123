@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, Python & Node.js**
 
+- 🧑🏻‍💻 Experienced in developing web applications using modern frameworks and libraries.
+
 - 📫 How to reach me **thuwarakan123@gmail.com**
 
 Feel free to explore my GitHub repositories to see my work and contributions. I am open to collaborations and would love to connect with fellow developers and enthusiasts.

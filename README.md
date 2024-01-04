@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **React, Python & Node.js**
 
+- 🎓 Proud **Software Engineering** graduate from Informatics Institute of Technology, affiliated with the **University of Westminster**, London.
+
 - 🧑🏻‍💻 Experienced in developing web applications using modern frameworks and libraries.
 
 - 📫 How to reach me **thuwarakan123@gmail.com**
@@ -20,7 +22,7 @@ Thank you for visiting my GitHub profile!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thuwarakan-jeyakumar-4b914b1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thuwarakan-jeyakumar-4b914b1a3/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/nesigan.ganeshan.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/nesigan.ganeshan.1/" height="30" width="40" /></a>
+<a href="https://web.facebook.com/nesigan.ganeshan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/nesigan.ganeshan.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
